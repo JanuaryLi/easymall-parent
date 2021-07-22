@@ -6,13 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="easymall-pic" />
         <module name="easymall-user" />
+        <module name="easymall-pic" />
         <module name="easymall-cart" />
         <module name="easymall-common-resources" />
-        <module name="easymall-search" />
         <module name="easymall-seckill" />
         <module name="easymall-order" />
+        <module name="easymall-search" />
         <module name="easymall-product" />
       </profile>
     </annotationProcessing>
